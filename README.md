@@ -10,13 +10,14 @@ It mainly contains my contributions to 'PantryNode' project which was undertaken
 ### Highlights
 
 - Coordinated and worked with the Testing team
-- Reviewed initial Docker setup and took part in discussion related to a docker issue (ChicoState/PantryNode/pull/43)
+- Reviewed initial Docker setup and took part in discussion related to a docker issue [ChicoState/PantryNode#43](https://github.com/ChicoState/PantryNode/pull/43)
 - Developed a smoke test and contributed to create basic testing environment (ChicoState/PantryNode/pull/75)
 - Created github actions for creating Coverage Report (ChicoState/PantryNode/pull/179)
 - Contributed to another issue related consolidating coverage report (ChicoState/PantryNode/pull/244)
 - Contributed to do directory management (ChicoState/PantryNode/pull/255)
 
-
+- PR - [ChicoState/PantryNode#217](https://github.com/ChicoState/PantryNode/pull/253)
+- 
 ### Timeline
 
 - Sprint #1 - Started Feb 27th, 2023
